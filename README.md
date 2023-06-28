@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="assets/BuberBreakfastUiUx.png" alt="drawing" width="1000"/>
-
----
-
 ### This is the training code of the [CRUD REST API from scratch using .NET 6 tutorial](https://youtu.be/PmDJIooZjBE)
 
 </div>
